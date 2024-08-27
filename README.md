@@ -1,5 +1,5 @@
 # terraform-aws-networking-tf-course
-Networking module created during Mastering Terraform Course
+Networking module created during Mastering Terraform Course.
 
 This module manages the crteation of VPCs and Subnets, allowing for the creation of both private and public subnets.
 
